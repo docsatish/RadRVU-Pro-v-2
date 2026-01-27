@@ -1,0 +1,7 @@
+{
+  "name": "Radiology RVU Calculator",
+  "description": "Create PDF, Consolidate Option, Add picture to PDF",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
